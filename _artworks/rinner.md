@@ -6,4 +6,4 @@ artist: William Rimmer
 room: Science
 link: https://google.com
 ---
-More of a description [here](https://google.com)
+More of a description [here](https://shanivi.github.io/another-page-writing.html)
