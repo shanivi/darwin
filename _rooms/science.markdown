@@ -1,5 +1,5 @@
 ---
-title: 1900s to Now
+title: 1800s
 ---
 {% include gallery.html %}
 <a-entity environment="preset: tron"></a-entity>
