@@ -1,5 +1,5 @@
 ---
-title: 1800s
+title: Room Three
 ---
 {% include gallery.html %}
 <a-entity environment="preset: goldmine"></a-entity>
