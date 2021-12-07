@@ -1,5 +1,5 @@
 ---
-title: 1500s
+title: Start
 ---
 {% include gallery.html %}
 <a-entity environment="preset: arches"></a-entity>
