@@ -1,5 +1,5 @@
 ---
-title: 1700s and 1800s
+title: 1700s
 ---
 {% include gallery.html %}
-<a-entity environment="preset: goldmine"></a-entity>
+<a-entity environment="preset: yavapai"></a-entity>
