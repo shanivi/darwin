@@ -1,7 +1,7 @@
 ---
 image: science/rinner.jpeg
 title:  Nude Male
-created: 1867, 1868
+created: [1867, 1868](https://google.com)
 artist: William Rimmer
 room: Science
 link: https://google.com
