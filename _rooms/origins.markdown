@@ -2,4 +2,4 @@
 title: 1700s
 ---
 {% include gallery.html %}
-<a-entity environment="preset: arches"></a-entity>
+<a-entity environment="preset: yavapai"></a-entity>
