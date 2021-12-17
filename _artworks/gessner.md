@@ -1,8 +1,8 @@
 ---
 image: one/gessner.jpg
-title:  Bug
-created: 2020
-artist: Seth Atwood
+title:  Mosaic Pavement with Birds, from Feleet Village Building (Panel B)
+created: 4th-5th century CE
+artist: Roman
 room: One
 link: NA
 ---
